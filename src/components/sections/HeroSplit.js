@@ -74,7 +74,7 @@ class HeroSplit extends React.Component {
             <div className={splitClasses}>
               <div className="split-item">
                 <div className="hero-content split-item-content center-content-mobile reveal-from-top">
-                  <h1 className="mt-0 mb-16">BLAST Academy — USACO</h1>
+                  <h1 className="mt-0 mb-16">BLAST Academy</h1>
                   <p className="mt-0 mb-16">
                     USACO Coaching shouldn't have to sacrifice personalization
                     for affordability. At BLAST Academy, we take a unique
