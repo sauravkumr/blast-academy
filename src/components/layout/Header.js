@@ -123,17 +123,17 @@ class Header extends React.Component {
                         navPosition && `header-nav-${navPosition}`
                       )}>
                       <li>
-                        <Link to="/hiring/" onClick={this.closeMenu}>Mentor Hiring</Link>
+                        <Link to="/hiring/" onClick={this.closeMenu}>Coach Hiring</Link>
                       </li>
                       <li>
                         <Link to="/testimonials/" onClick={this.closeMenu}>Testimonials</Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link to="/research/" onClick={this.closeMenu}>Research</Link>
                       </li>
                       <li>
                         <Link to="/bootcamp/" onClick={this.closeMenu}>Bootcamp</Link>
-                      </li>
+                      </li> */}
                     </ul>
                     {!hideSignin &&
                       <ul

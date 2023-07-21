@@ -20,7 +20,7 @@
     h3 {
         @include font-family(heading);
         @include font-weight(heading);
-        color: get-color(primary, 4);
+        color: get-color(light, 1);
     }
 
     .form-input {

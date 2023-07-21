@@ -21,7 +21,7 @@ const Logo = ({
       <h1 className="m-0">
         <Link to="/">
           <Image
-            src={require('./../../../assets/images/blastailogo.png')}
+            src={require('./../../../assets/images/blastfull.png')}
             alt="Tidy"
             width={200}
             height={80} />

@@ -46,7 +46,7 @@ class Team extends React.Component {
     const sectionHeader = {
       title: "The Team",
       paragraph:
-        "BLAST Academy is led by USACO Platinum students who've taught at the biggest USACO coaching companies. We know how to help students succeed.",
+        "BLAST Academy is led by coaches with USACO Platinum and students at T5 CS schools. Our coaches have excelled their problem solving skills outside of competitions – our students succeed beyond advancing in USACO.",
     };
 
     return (

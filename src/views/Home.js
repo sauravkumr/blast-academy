@@ -27,7 +27,7 @@ class Home extends React.Component {
         {/* <Stats /> */}
         <FeaturesSplit id="About" />
         <div style={{display: 'flex',  justifyContent:'center', width: '100%'}}>
-          <Widget id="eta8tr1k" style={{ width: '100%', height: '515px' }} className="my-form" />
+          <Widget id="Y0TyVF2H" style={{ width: '100%', height: '515px' }} className="my-form" />
         </div>
         {/* <ResearchCarosel bottomOuterDivider /> */}
         {/* <FeaturesTabs bottomOuterDivider /> */}

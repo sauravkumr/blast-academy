@@ -56,8 +56,8 @@ class Pricing extends React.Component {
     );
 
     const sectionHeader = {
-      title: 'Making ML Education Accesible',
-      paragraph: 'We don\'t want you to pay thousands like other research summer programs. We have need-based financial aid and scholarship grants available in the application.'
+      title: 'BLAST Academy Pricing',
+      paragraph: 'Our USACO Bronze class will cost $1160 for the 10 weeks – that\'s $116 a week for 6+ hours of personalized guidance and lectures a week. With the right effort, we guaruntee improvement in USACO scores.'
     };
 
     return (
